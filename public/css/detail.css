@@ -1,0 +1,50 @@
+
+/* Put your code here */
+
+h1{
+    text-align: center;
+}
+
+.text-box{
+    margin: 10px 0;
+}
+
+.bus-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.images{
+    display: flex;
+    flex-direction: column;
+}
+
+.images img{
+    width: 100px;
+    margin: 5px 0
+}
+
+.driver-profile{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    border: solid 2px #172E6E;
+    border-radius: 50px 15px;
+    margin: 30px 0;
+}
+
+.driver-details{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+iframe{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* Put your code here */    

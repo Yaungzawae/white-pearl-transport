@@ -1,0 +1,73 @@
+/* Put your code here */
+
+.form {
+    margin: 20px 0;
+}
+
+.calendar-input-form{
+    border: solid 2px #172E6E;
+    border-radius: 50px 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+    padding: 30px 20px 
+}
+
+.calendar-input-form button{
+    color: gray;
+    background-color: white;
+    border: solid 1px gray; 
+    border-radius: 10px;
+    padding: 8px 10px;
+    margin-bottom: 10px;
+}
+
+.calendar-input-form a{
+    font-size: small;
+    margin-left: 5px;
+    color: red;
+}
+
+.calendar-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 6px 0;
+}
+
+.calendar-div p{
+    width: 49%;
+    background-color: #03709C ;
+    color: white;
+    text-align: center;
+}
+
+.calendar-div input{
+    width: 49%;
+}
+
+
+.enquiry-label{
+    display: inline-block;
+}
+
+.enquiry{
+    width: 80%;
+}
+
+.submit{
+    margin-left: auto;
+    display: block;
+    background-color: rgba(23,46,110,255);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5%;
+    color: white;
+}
+
+.submit:hover{
+    background-color: green;
+    color: white;
+}
+
+
+/* Put your code here */    

@@ -1,0 +1,60 @@
+
+/* Put your code here */
+
+.calendar-input-form{
+    border: solid 2px #172E6E;
+    border-radius: 50px 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.calendar-wrapper{
+    margin: 20px 0;
+}
+
+
+.calendars-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+}
+
+
+
+.calendars-container input{
+    display: block;
+    width: 8em;
+    margin: 8px 0;
+}
+
+.calendars-container p{
+    margin: 0 5px;
+    width: auto;
+}
+
+.submit{
+    margin-left: auto;
+    display: block;
+    background-color: rgba(23,46,110,255);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5%;
+    color: white;
+}
+
+.submit:hover{
+    background-color: green;
+    color: white;
+}
+
+
+
+/* Put your code here */    
+

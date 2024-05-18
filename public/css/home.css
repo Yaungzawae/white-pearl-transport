@@ -1,0 +1,21 @@
+.general-details{
+    margin: 20px 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bus-info{
+    padding: 30px;
+    border: solid 2px #172E6E;
+    border-radius: 50px 15px;
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.clickable-text{
+    color: #03709C;
+    text-decoration: underline;
+    display: block;
+}
